@@ -1,0 +1,4 @@
+service\IsItFriday.class
+service\RunCucumberTest.class
+service\StepDefinitions.class
+service\Stepdefs.class
